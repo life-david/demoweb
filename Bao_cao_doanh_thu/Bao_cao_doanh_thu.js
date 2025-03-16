@@ -97,7 +97,7 @@ function highlightText(text, keyword) {
 }
 
 function quayLai() {
-    location.href = "../trang_chu.html"; // Adjust the path as necessary
+    location.href = "../index.html"; // Adjust the path as necessary
 }
 
 function formatDateToISO(date) {
